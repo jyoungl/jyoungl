@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/SSAFY7-1428A0?style=flat&logo=samsung&logoColor=000000"/></a>
+### <a href="" target="_blank"><img src="https://img.shields.io/badge/SSAFY7-1428A0?style=flat&logo=samsung&logoColor=000000"/></a>
 
 <!--
 **jyoungl/jyoungl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
