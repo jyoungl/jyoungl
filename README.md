@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE8FF,100:00A1EA&height=200&section=header&text=&fontSize=90" />
 
-<h1><center>✏ 꼼꼼하게 살기 📝</center></h1>
-
+<h1>✏ 꼼꼼하게 살기 📝</h1>
 <h2> <img src="https://img.shields.io/badge/SSAFY7-1428A0?style=flat&logo=samsung&logoColor=ffffff"/> <a href="https://blog.naver.com/pmis118" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=flat&logo=naver&logoColor=ffffff"/></a> <img src="https://img.shields.io/badge/pmis118@naver.com-F06B66?style=flat&logo=maildotru&logoColor=ffffff"/> </h2>
 
 <h1><center> 배운 기술스택 </center></h1>
