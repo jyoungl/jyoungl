@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-### <a href="" target="_blank"><img src="https://img.shields.io/badge/SSAFY7-1428A0?style=flat&logo=samsung&logoColor=ffffff"/></a>
-### <a href="https://blog.naver.com/pmis118" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=flat&logo=naver&logoColor=ffffff"/></a>
-### <a href="" target="_blank"><img src="https://img.shields.io/badge/MAIL-F06B66?style=flat&logo=maildotru&logoColor=ffffff"/></a>
+### <a href="" target="_blank"><img src="https://img.shields.io/badge/SSAFY7-1428A0?style=flat&logo=samsung&logoColor=ffffff"/></a> <a href="https://blog.naver.com/pmis118" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=flat&logo=naver&logoColor=ffffff"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/MAIL-F06B66?style=flat&logo=maildotru&logoColor=ffffff"/></a>
 
 <!--
 **jyoungl/jyoungl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
